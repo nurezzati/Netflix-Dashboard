@@ -1,15 +1,33 @@
-# Airlines-Dashboard
+# Netflix-Dashboard
 
 ### Dashboard 
 ![image](https://github.com/user-attachments/assets/290dc00e-0e56-4d85-90fe-67433abdb11f)
 
 ## Problem Statement
 
-This dashboard helps the airlines understand their customers better. It helps the airlines know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average delay & departure time, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
+1. What are the distribution for movie and TV show contents in Netflix?
+2. Which year has the highest Netflix content added to the streaming platform?
+c) Which year had the most content releases for both movies and TV shows?
+d) Which month of the year is most of the content added?
+e) What age category does Netflix provide more content for? Who is the target?
+f) Which Netflix content ratings are most available on the platform?
+g) Which countries produce the most content?
+h) What are the content type preferences for these countries?
+i) What is the most popular genre for content on the platform?
+j) Which directors have the most content featured on Netflix?
+k) Which casts starred in the most content on Netflix?
+Research Questions:
+What types of contents are available in different countries on Netflix?
+How do different contents grow over the years? What is Netflix’s recent content focus?
+What are some growth opportunities for Netflix contents?
+What age group(s) of audiences does Netflix target at?
+Which country owns the largest production of contents?
+What movie genres are released the most on Netflix?
+What is the duration of the majority of movies?
+When are contents released within a year?
+Where are top rated movies produced? Which shows are most favored by audiences in different age groups?
+This dashboard helps understand Netflix customer behaviour better. It helps Netflix to know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the least movie genre and rating, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these issues.
 
-Since, number of neutral/dissatisfied customers (almost 57 %) are more than satisfied customers (around 43 %), thus in all they must work on improving their services. 
-
-Also since average delay in arrival & departure both is 15 minutes, thus they must try to reduce it.
 
 
 ### Steps followed 
