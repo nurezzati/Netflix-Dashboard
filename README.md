@@ -1,7 +1,7 @@
-# Netflix-Dashboard
+# Netflix Data Analysis
 
-### Dashboard 
-![image](https://github.com/user-attachments/assets/290dc00e-0e56-4d85-90fe-67433abdb11f)
+### Dashboard - Main Page
+![image](https://github.com/user-attachments/assets/1b25d7f5-9499-41fb-b943-5efe336e1817)
 
 ## Problem Statement
 
@@ -19,97 +19,41 @@
 
 This dashboard is designed to comprehensively analyze Netflix content based on various factors such as country, rating, genre and duration. By examining these dimensions, the dashboard aims to uncover meaningful insights and trends that can be highly beneficial for actors and directors within the entertainment industry. These insights can help them understand viewer preferences, optimize their content strategies and make informed decisions about future projects.
 
-# Snapshot of Dashboard (Power BI Service)
+# Dashboard - Movie Page
 
-![dashboard_snapo](https://user-images.githubusercontent.com/102996550/174096257-11f1aae5-203d-44fc-bfca-25d37faf3237.jpg)
-
- 
- # Report Snapshot (Power BI DESKTOP)
+![image](https://github.com/user-attachments/assets/e0cc3edb-cc37-4348-9277-4a132375002d)
 
  
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+ # Dashboard - TV Show Page
+
+ 
+![image](https://github.com/user-attachments/assets/4ac813f4-8d98-46f6-9476-fbb509e852fe)
 
 # Insights
 
-A single page report was created on Power BI Desktop & it was then published to Power BI Service.
+Three pages report consisting overview, movie analysis and TV show analysis were created on Power BI Desktop.
 
 Following inferences can be drawn from the dashboard;
 
-### [1] Total Number of Customers = 129880
+### [1] Content Distribution in Netflix
+    Total Number of Movies - 6131
+    Total Number of TV Shows - 2666
 
-   Number of satisfied Customers (Male) = 28159 (21.68 %)
+   From the distribution, we can see that there are more movies available in Netflix compared to TV shows.
 
-   Number of satisfied Customers (Female) = 28269 (21.76 %)
+### [2] Content Growth in Netflix 
+   Content addition in Netflix consistently increases from 2008 and reaches its peak in 2019. The number then drops in 2020 and 2021 most likely due to outbreak of Covid-19 pandemic. We can see that Netflix is 
+   more focused on movie production as the number of movie added to the platform rises tremendously over years compared to TV shows.
+    
+### [3] Rating 
+   The highest number of content in Netflix are released with rating TV-MA for both movie and TV show. This reveals that most content in the platform are targeted for mature audiences and contents with this 
+   rating are not appropriate for children to watch.
 
-   Number of neutral/unsatisfied customers (Male) = 35822 (27.58 %)
+ ### [4] Countries in Netflix
+   USA dominates the largest portion in Netflix for both movie and TV show. This is relatively due to higher number of population in USA and Netflix itself is a USA company. India on the other hand surpasses UK      as second largest country with more than 90% movies produced than TV show. This is might because of Bollywood industry main focus are movies and not catered for TV show. Meanwhile, content industry in South 
+   Korea is conquered by majority content made of almost entirely TV show.
 
-   Number of neutral/unsatisfied customers (Female) = 37630 (28.97 %)
+ ### [5] Genre 
+   Top three genre for movie in Netflix are Dramas, International Movies, Documentary and Stand up Comedy. TV show on the other hand has highest number of content with genre Kids TV indicating that majority TV 
+   show in Netflix are intended for children.
 
-
-           thus, higher number of customers are neutral/unsatisfied.
-           
-### [2] Average Ratings
-
-    a) Baggage Handling - 3.63/5
-    b) Check-in Service - 3.31/5
-    c) Cleanliness - 3.29/5
-    d) Ease of online booking - 2.88/5
-    e) Food & Drink - 3.21/5
-    f) In-flight Entertainment - 3.36/5
-    g) In-flight service - 3.64/5
-    h) In-flight Wifi service - 2.81/5
-    i) Leg room service - 3.37/5
-    j) On-board service - 3.38/5
-    k) Online boarding - 3.33/5
-    l) Seat comfort - 3.44/5
-    m) Departure & arrival convenience - 3.22/5
-  
-  while calculating average rating, null values have been ignored as they were not relevant for some customers. 
-  
-  These ratings will change if different visual filters will be applied.  
-  
-  ### [3] Average Delay 
-  
-      a) Average delay in arrival(minutes) - 15.09
-      b) Average delay in departure(minutes) - 14.71
-Average delay will change if different visual filters will be applied.
-
- ### [4] Some other insights
- 
- ### Class
- 
- 1.1) 47.87 % customers travelled by Business class.
- 
- 1.2) 44.89 % customers travelled by Economy class.
- 
- 1.3) 7.25 % customers travelled by Economy plus class.
- 
-         thus, maximum customers travelled by Business class.
- 
- ### Age Group
- 
- 2.1)  21.69 % customers belong to '0-25' age group.
- 
- 2.2)  52.44 % customers belong to '25-50' age group.
- 
- 2.3)  25.57 % customers belong to '50-75' age group.
- 
- 2.4)  0.31 % customers belong to '75-100' age group.
- 
-         thus, maximum customers belong to '25-50' age group.
-         
-### Customer Type
-
-3.1) 18.31 % customers have customer type 'First time'.
-
-3.2) 81.69 % customers have customer type 'returning'.
-       
-       thus, more customers have customer type 'returning'.
-
-### Type of travel
-
-4.1) 69.06 % customers have travel type 'Business'.
-
-4.2) 30.94 % customers have travel type 'Personal'.
-
-        thus, more customers have travel type 'Business'.
