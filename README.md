@@ -1,4 +1,4 @@
-# Netflix Data Analysis
+# Netflix Dashboard
 
 ### Dashboard - Main Page
 ![image](https://github.com/user-attachments/assets/1b25d7f5-9499-41fb-b943-5efe336e1817)
