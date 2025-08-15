@@ -3,7 +3,7 @@
 ### Dashboard - Main Page
 ![image](https://github.com/user-attachments/assets/1b25d7f5-9499-41fb-b943-5efe336e1817)
 
-## Problem Statement
+## Key Questions
 
 1. What are the distribution for movie and TV show contents in Netflix?
 2. What are the growth of Netflix content over years? What is Netflix recent focus?
@@ -15,7 +15,7 @@
 8. What is the duration for most Netflix content?
 
 
-## Research Questions:
+## Objective
 
 This dashboard is designed to comprehensively analyze Netflix content based on various factors such as country, rating, genre and duration. By examining these dimensions, the dashboard aims to uncover meaningful insights and trends that can be highly beneficial for actors and directors within the entertainment industry. These insights can help them understand viewer preferences, optimize their content strategies and make informed decisions about future projects.
 
